@@ -2,18 +2,6 @@
 
 This repository contains a FastAPI application for recommending books to users based on their ratings. The application loads a pre-trained machine learning model to predict book ratings and provides book recommendations for a given user.
 
-## Table of Contents
-- [Features](#features)
-- [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Environment Variables](#environment-variables)
-  - [Installation](#installation)
-- [Usage](#usage)
-  - [Running Locally](#running-locally)
-  - [Running with Docker](#running-with-docker)
-  - [Deployment to Google Cloud Run](#deployment-to-google-cloud-run)
-- [API Endpoints](#api-endpoints)
-
 ## Features
 - Load and preprocess data from Google Firestore.
 - Use a pre-trained TensorFlow model to predict book ratings.
