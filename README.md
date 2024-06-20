@@ -41,4 +41,4 @@ uvicorn app:app --host 0.0.0.0 --port 8080
 
 **Example Request**:
 ```http
-GET https://api.example.com/v1/predict?user_id=123
+GET https://0.0.0.0:8080/predict?user_id=<user_id>
