@@ -21,8 +21,8 @@ Create a `.env` file in the root directory and add your Google Cloud credentials
 ### Installation
 1. Clone the repository:
    ```sh
-    git clone https://github.com/your-repo/book-recommendation-system.git
-    cd book-recommendation-system
+    git clone https://github.com/Sellucose/fast-api-predict.git
+    cd fast-api-predict
     pip install -r requirements.txt
 
 ### Usage
